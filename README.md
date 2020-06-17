@@ -36,9 +36,22 @@ This is a curated list of the sources related to multilevel modeling.
 
 ## Manuals and Tutorials
 
+* Introduction to Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
+
+* Introduction to Linear Mixed Models (2): https://ourcodingclub.github.io/tutorials/mixed-models/
+
+* Multilevel Modeling: https://ademos.people.uic.edu/Chapter16.html
+
 * Multilevel Modeling Tutorial: https://stat.utexas.edu/images/SSC/documents/SoftwareTutorials/MultilevelModeling.pdf
 
-* Introduction to Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
+* Mixed Effects Modeling: https://ademos.people.uic.edu/Chapter17.html
+
+* Using Mixed-Effects Models For Linear Regression: https://towardsdatascience.com/using-mixed-effects-models-for-linear-regression-7b7941d249b
+
+* Linear Mixed-Effects Models: https://www.mathworks.com/help/stats/linear-mixed-effects-models.html
+
+* Linear Mixed Effects Models (2): http://sia.webpopix.org/lme.html
+
 
 ## Scientific Articles
 
