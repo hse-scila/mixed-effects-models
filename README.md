@@ -6,7 +6,11 @@ This is a curated list of the sources related to multilevel modeling.
 
 ### R
 
+* glmm: https://rdrr.io/cran/glmm/
+
 * lme4: https://rdrr.io/cran/lme4/
+
+* lmerTest: https://rdrr.io/cran/lmerTest/
 
 * nlme: https://rdrr.io/cran/nlme/
 
@@ -25,6 +29,8 @@ This is a curated list of the sources related to multilevel modeling.
 * Lavielle, M. (2014). _Mixed effects models for the population approach: models, tasks, methods and tools_. CRC press.
 
 * Gałecki, A., & Burzykowski, T. (2013). _Linear Mixed-Effects Models Using R_. Springer, New York, NY.
+
+* Goldstein, H. (2011). _Multilevel Statistical Models_ (4th ed.). London: Wiley.
 
 * Snijders, T. A., & Bosker, R. J. (2011). _Multilevel analysis: An introduction to basic and advanced multilevel modeling_. Sage. 
 
@@ -48,7 +54,7 @@ This is a curated list of the sources related to multilevel modeling.
 
 * Introduction to Mixed Models in R (by Galin Jones, University of Minnesota): http://users.stat.umn.edu/~galin/IntroductionToMixedModelsInR.pdf
 
-## Manuals and Tutorials
+## Manuals, Tutorials, and Blog Posts
 
 * Introduction to Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
 
@@ -73,6 +79,11 @@ This is a curated list of the sources related to multilevel modeling.
 * Linear mixed-effect models in R: https://www.r-bloggers.com/linear-mixed-effect-models-in-r/
 
 * Linear models and linear mixed effects models in R with linguistic applications: https://arxiv.org/pdf/1308.5499.pdf
+
+* Mixed-effects models (in R): http://home.cc.umanitoba.ca/~krussll/stats/mixed-effects.html
+
+* GLMM FAQ: https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html
+
 
 ## Scientific Articles
 
