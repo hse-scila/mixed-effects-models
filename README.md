@@ -2,6 +2,18 @@
 
 This is a curated list of the sources related to multilevel modeling.
 
+## Software
+
+### R
+
+* lme4: https://rdrr.io/cran/lme4/
+
+* nlme: https://rdrr.io/cran/nlme/
+
+### Python
+
+* statsmodels: https://www.statsmodels.org/stable/mixed_linear.html
+
 ## Books and Monographies
 
 * Faraway, J. J. (2016). _Extending the linear model with R: generalized linear, mixed effects and nonparametric regression models_. CRC press.
@@ -34,6 +46,8 @@ This is a curated list of the sources related to multilevel modeling.
 
 * Crash Course on Multilevel Modeling: https://www.ctsi.ucla.edu/education/files/view/training/docs/Ponce_Multilevel_modeling_CTSI_seminar_012313.pdf
 
+* Introduction to Mixed Models in R (by Galin Jones, University of Minnesota): http://users.stat.umn.edu/~galin/IntroductionToMixedModelsInR.pdf
+
 ## Manuals and Tutorials
 
 * Introduction to Linear Mixed Models: https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
@@ -50,8 +64,15 @@ This is a curated list of the sources related to multilevel modeling.
 
 * Linear Mixed-Effects Models: https://www.mathworks.com/help/stats/linear-mixed-effects-models.html
 
-* Linear Mixed Effects Models (2): http://sia.webpopix.org/lme.html
+* Linear Mixed-Effects Models (2): http://sia.webpopix.org/lme.html
 
+* Linear Mixed-Effects Models (3): https://www.zoology.ubc.ca/~bio501/R/workshops/lme.html
+
+* A tutorial for using the `lme` function from the `nlme` package: https://crumplab.github.io/psyc7709/book/docs/a-tutorial-for-using-the-lme-function-from-the-nlme-package-.html
+
+* Linear mixed-effect models in R: https://www.r-bloggers.com/linear-mixed-effect-models-in-r/
+
+* Linear models and linear mixed effects models in R with linguistic applications: https://arxiv.org/pdf/1308.5499.pdf
 
 ## Scientific Articles
 
@@ -62,6 +83,8 @@ This is a curated list of the sources related to multilevel modeling.
 * Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2017). _[lmerTest Package: Tests in Linear Mixed Effects Models](https://doi.org/10.18637/jss.v082.i13)_. Journal of Statistical Software, 82(13).
 
 * Sommet, N., & Morselli, D. (2017). _[Keep Calm and Learn Multilevel Logistic Modeling: A Simplified Three-Step Procedure Using Stata, R, Mplus, and SPSS](https://serval.unil.ch/resource/serval:BIB_B64BDD5DB9AF.P001/REF.pdf)_. International Review of Social Psychology, 30, 203-218.
+
+* Magezi, D. A. (2015). _[Linear mixed-effects models for within-participant psychology experiments: an introductory tutorial and free, graphical user interface (LMMgui)](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00002/full)_. Frontiers in psychology, 6, 2.
 
 * Bates, D., Mächler, M., Bolker, B., & Walker, S. (2014). _[Fitting linear mixed-effects models using lme4](https://arxiv.org/abs/1406.5823)_. arXiv preprint arXiv:1406.5823.
 
