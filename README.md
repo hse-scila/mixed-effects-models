@@ -44,6 +44,10 @@ This is a curated list of the sources related to multilevel modeling.
 
 * Pinheiro, J., & Bates, D. (2006). _Mixed-effects models in S and S-PLUS_. Springer Science & Business Media.
 
+* Raudenbush, S. W., & Bryk, A. S. (2002). _Hierarchical linear models: Applications and data analysis methods_. Sage.
+
+* Stephen, R., & Anthony, B. (2002). _Hierarchical linear models_. Sage Publications, Thousand Oaks, CA.
+
 ## Chapters in Books
 
 * Field, A., Miles, J., & Field, Z. (2012). _Multilevel linear models_. In: Discovering statistics using R. Sage publications.
