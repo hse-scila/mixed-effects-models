@@ -7,12 +7,13 @@ This is a curated list of the sources related to multilevel modeling.
 ### R
 
 * glmm: https://rdrr.io/cran/glmm/
-
 * lme4: https://rdrr.io/cran/lme4/
-
 * lmerTest: https://rdrr.io/cran/lmerTest/
-
 * nlme: https://rdrr.io/cran/nlme/
+* glmmsr: https://rdrr.io/cran/glmmsr/
+* MASS: https://rdrr.io/cran/MASS/ (`glmmPQL` function)
+* glmmTMB: https://rdrr.io/cran/glmmTMB/
+* mcemGLM: https://rdrr.io/cran/mcemGLM/
 
 ### Python
 
